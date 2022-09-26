@@ -62,7 +62,7 @@ class Box:
     self.length=self.length *2
   def __eq__(self,other):
     # returns true if the two boxes' lengths and widths are identical.
-    return self.length==other.length and self.width==self.width 
+    return self.length==other.length and self.width==other.width 
     
   def print_dim(self):
     print(f"The box's length is {self.length} cm and it's width is {self.width} cm ")
