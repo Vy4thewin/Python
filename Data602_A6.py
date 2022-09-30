@@ -13,7 +13,6 @@ Assignment #5
 from sqlite3 import DatabaseError
 import numpy as np, pandas as pd, matplotlib.pyplot as plt
 import unittest
-import requests
 import json
 import math
 
@@ -79,20 +78,20 @@ def exercise08():
     - df_zip_not_95610 - DataFrame containing all transactions not in zip code 95610
     '''
 
-    s=pd.read_csv("https://tinyurl.com/y63q7okz",header=0)
-    print(s.columns)
+    df=pd.read_csv("https://tinyurl.com/y63q7okz",header=0)
+    print(df.columns)
 
     #find # of total rows
-    row_count=s.shape[0]
+    row_count=df.shape[0]
 
     #find average sq ft out of the data frame
-    avg_sq_ft=s["sq__ft"].mean()
+    avg_sq_ft=df["sq__ft"].mean()
     print(row_count)
 
 
     #find all lsiting with specific zipcode
-    df_zip_95670=s[s["zip"]==95670]
-    df_zip_not_95610=s[s["zip"]!=95670]
+    df_zip_95670=df[df["zip"]==95670]
+    df_zip_not_95610=df[df["zip"]!=95610]
 
     return df, row_count, avg_sq_ft, df_zip_95670, df_zip_not_95610
 
@@ -120,7 +119,7 @@ def exercise12(n):
 
     #use indices to create a  sequence of 1s and 0s, add all columns to down to create the checkboard effect
     checkerboard_matrix = np.indices((n*2,n*2)).sum(axis=0) %2
-
+    checkerboard_matrix=np.fliplr(checkerboard_matrix)
 
     return checkerboard_matrix
 
@@ -132,6 +131,7 @@ def exercise13(n):
     '''
     #create a date range from nth days with date_range
     s=pd.date_range('1/1/2010', periods=n)
+    return s
 
 
 
