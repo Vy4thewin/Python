@@ -1,0 +1,1819 @@
+tree_id,health,spc_common,borough
+2336382,Fair,American beech,Bronx
+92425696,Fair,American elm,Bronx
+8438648,Fair,American hophornbeam,Bronx
+19842864,Fair,American hornbeam,Bronx
+556389,Fair,American larch,Bronx
+104138874,Fair,American linden,Bronx
+1704171,Fair,Amur cork tree,Bronx
+19236666,Fair,Amur maackia,Bronx
+20435494,Fair,Amur maple,Bronx
+112098,Fair,arborvitae,Bronx
+19442316,Fair,ash,Bronx
+783313,Fair,Atlantic white cedar,Bronx
+3548941,Fair,bald cypress,Bronx
+324705,Fair,bigtooth aspen,Bronx
+781572,Fair,black cherry,Bronx
+970672,Fair,blackgum,Bronx
+18368394,Fair,black locust,Bronx
+185444,Fair,black maple,Bronx
+5001018,Fair,black oak,Bronx
+2330074,Fair,black walnut,Bronx
+6172103,Fair,bur oak,Bronx
+147391311,Fair,Callery pear,Bronx
+7636099,Fair,catalpa,Bronx
+170942707,Fair,cherry,Bronx
+511082,Fair,Chinese chestnut,Bronx
+52824215,Fair,Chinese elm,Bronx
+5915666,Fair,Chinese tree lilac,Bronx
+2600568,Fair,cockspur hawthorn,Bronx
+45156497,Fair,common hackberry,Bronx
+2188947,Fair,Cornelian cherry,Bronx
+21475762,Fair,crab apple,Bronx
+1977132,Fair,crepe myrtle,Bronx
+12356014,Fair,crimson king maple,Bronx
+324434,Fair,cucumber magnolia,Bronx
+27158188,Fair,dawn redwood,Bronx
+3530974,Fair,eastern cottonwood,Bronx
+183934,Fair,eastern hemlock,Bronx
+27137289,Fair,eastern redbud,Bronx
+2415253,Fair,eastern redcedar,Bronx
+4988256,Fair,empress tree,Bronx
+7287608,Fair,English oak,Bronx
+360020,Fair,European alder,Bronx
+1807050,Fair,European beech,Bronx
+28584287,Fair,European hornbeam,Bronx
+7083116,Fair,flowering dogwood,Bronx
+101796912,Fair,ginkgo,Bronx
+24303631,Fair,golden raintree,Bronx
+87177028,Fair,green ash,Bronx
+6662203,Fair,hardy rubber tree,Bronx
+27592491,Fair,hawthorn,Bronx
+29915482,Fair,hedge maple,Bronx
+263068,Fair,holly,Bronx
+302729814,Fair,honeylocust,Bronx
+8398181,Fair,horse chestnut,Bronx
+2178618,Fair,Japanese hornbeam,Bronx
+6798876,Fair,Japanese maple,Bronx
+1648335,Fair,Japanese snowbell,Bronx
+28735998,Fair,Japanese tree lilac,Bronx
+164836924,Fair,Japanese zelkova,Bronx
+9772372,Fair,katsura tree,Bronx
+29511934,Fair,Kentucky coffeetree,Bronx
+4571036,Fair,Kentucky yellowwood,Bronx
+1779504,Fair,kousa dogwood,Bronx
+204400559,Fair,littleleaf linden,Bronx
+315706744,Fair,London planetree,Bronx
+2290734,Fair,magnolia,Bronx
+106063063,Fair,maple,Bronx
+559464,Fair,mimosa,Bronx
+9177355,Fair,mulberry,Bronx
+58291084,Fair,northern red oak,Bronx
+238651733,Fair,Norway maple,Bronx
+4868890,Fair,Norway spruce,Bronx
+370709,Fair,Ohio buckeye,Bronx
+2093975,Fair,Oklahoma redbud,Bronx
+378411,Fair,Osage-orange,Bronx
+1126558,Fair,pagoda dogwood,Bronx
+1890292,Fair,paperbark maple,Bronx
+3331431,Fair,paper birch,Bronx
+1472231,Fair,Persian ironwood,Bronx
+509655,Fair,pignut hickory,Bronx
+560849,Fair,pine,Bronx
+195233099,Fair,pin oak,Bronx
+472559,Fair,pond cypress,Bronx
+30495782,Fair,purple-leaf plum,Bronx
+571581,Fair,quaking aspen,Bronx
+521754,Fair,red horse chestnut,Bronx
+107372114,Fair,red maple,Bronx
+235288,Fair,red pine,Bronx
+2376471,Fair,river birch,Bronx
+1394592,Fair,sassafras,Bronx
+9285274,Fair,sawtooth oak,Bronx
+16254018,Fair,scarlet oak,Bronx
+23974456,Fair,'Schubert' chokecherry,Bronx
+11599705,Fair,Schumard's oak,Bronx
+8953304,Fair,serviceberry,Bronx
+1008341,Fair,Shantung maple,Bronx
+4047106,Fair,shingle oak,Bronx
+12035047,Fair,Siberian elm,Bronx
+1830172,Fair,silver birch,Bronx
+22062710,Fair,silver linden,Bronx
+35778859,Fair,silver maple,Bronx
+159366,Fair,smoketree,Bronx
+93626374,Fair,Sophora,Bronx
+795028,Fair,southern magnolia,Bronx
+517881,Fair,spruce,Bronx
+19789383,Fair,sugar maple,Bronx
+31643020,Fair,swamp white oak,Bronx
+23617978,Fair,sweetgum,Bronx
+16214316,Fair,sycamore maple,Bronx
+1235435,Fair,tartar maple,Bronx
+5963409,Fair,tree of heaven,Bronx
+3488588,Fair,tulip-poplar,Bronx
+933461,Fair,Turkish hazelnut,Bronx
+2288233,Fair,two-winged silverbell,Bronx
+1022286,Fair,weeping willow,Bronx
+6238845,Fair,white ash,Bronx
+8064396,Fair,white oak,Bronx
+763417,Fair,white pine,Bronx
+11303550,Fair,willow oak,Bronx
+3025949,Fair,American beech,Brooklyn
+73548424,Fair,American elm,Brooklyn
+18249292,Fair,American hophornbeam,Brooklyn
+13222856,Fair,American hornbeam,Brooklyn
+162571505,Fair,American linden,Brooklyn
+2727473,Fair,Amur cork tree,Brooklyn
+39403584,Fair,Amur maackia,Brooklyn
+16996140,Fair,Amur maple,Brooklyn
+1938521,Fair,arborvitae,Brooklyn
+25944843,Fair,ash,Brooklyn
+6208547,Fair,Atlantic white cedar,Brooklyn
+2468964,Fair,Atlas cedar,Brooklyn
+32425638,Fair,bald cypress,Brooklyn
+1710180,Fair,bigtooth aspen,Brooklyn
+6733767,Fair,black cherry,Brooklyn
+8994880,Fair,blackgum,Brooklyn
+17499429,Fair,black locust,Brooklyn
+2152073,Fair,black maple,Brooklyn
+16398309,Fair,black oak,Brooklyn
+407098,Fair,black pine,Brooklyn
+2803681,Fair,black walnut,Brooklyn
+607073,Fair,blue spruce,Brooklyn
+569985,Fair,boxelder,Brooklyn
+7012268,Fair,bur oak,Brooklyn
+344822011,Fair,Callery pear,Brooklyn
+5595724,Fair,catalpa,Brooklyn
+278578190,Fair,cherry,Brooklyn
+1716923,Fair,Chinese chestnut,Brooklyn
+51945108,Fair,Chinese elm,Brooklyn
+3027079,Fair,Chinese fringetree,Brooklyn
+8624941,Fair,Chinese tree lilac,Brooklyn
+5569252,Fair,cockspur hawthorn,Brooklyn
+37574176,Fair,common hackberry,Brooklyn
+19062005,Fair,Cornelian cherry,Brooklyn
+29102654,Fair,crab apple,Brooklyn
+2809942,Fair,crepe myrtle,Brooklyn
+77265522,Fair,crimson king maple,Brooklyn
+721753,Fair,cucumber magnolia,Brooklyn
+54469029,Fair,dawn redwood,Brooklyn
+755714,Fair,Douglas-fir,Brooklyn
+1763319,Fair,eastern cottonwood,Brooklyn
+1073746,Fair,eastern hemlock,Brooklyn
+51974686,Fair,eastern redbud,Brooklyn
+7564950,Fair,eastern redcedar,Brooklyn
+1586460,Fair,empress tree,Brooklyn
+14850186,Fair,English oak,Brooklyn
+649073,Fair,European alder,Brooklyn
+3381046,Fair,European beech,Brooklyn
+35194631,Fair,European hornbeam,Brooklyn
+1767766,Fair,false cypress,Brooklyn
+17977280,Fair,flowering dogwood,Brooklyn
+179306144,Fair,ginkgo,Brooklyn
+41613656,Fair,golden raintree,Brooklyn
+158088472,Fair,green ash,Brooklyn
+10973896,Fair,hardy rubber tree,Brooklyn
+33277754,Fair,hawthorn,Brooklyn
+37058658,Fair,hedge maple,Brooklyn
+1516697,Fair,Himalayan cedar,Brooklyn
+609689,Fair,holly,Brooklyn
+663103374,Fair,honeylocust,Brooklyn
+13695845,Fair,horse chestnut,Brooklyn
+8293131,Fair,Japanese hornbeam,Brooklyn
+6737461,Fair,Japanese maple,Brooklyn
+8619319,Fair,Japanese snowbell,Brooklyn
+64602310,Fair,Japanese tree lilac,Brooklyn
+271350153,Fair,Japanese zelkova,Brooklyn
+27222960,Fair,katsura tree,Brooklyn
+41857688,Fair,Kentucky coffeetree,Brooklyn
+7694870,Fair,Kentucky yellowwood,Brooklyn
+3385621,Fair,kousa dogwood,Brooklyn
+400353642,Fair,littleleaf linden,Brooklyn
+1466792496,Fair,London planetree,Brooklyn
+2578406,Fair,magnolia,Brooklyn
+40316314,Fair,maple,Brooklyn
+5993350,Fair,mimosa,Brooklyn
+11607641,Fair,mulberry,Brooklyn
+89459240,Fair,northern red oak,Brooklyn
+673759519,Fair,Norway maple,Brooklyn
+2918806,Fair,Norway spruce,Brooklyn
+1150004,Fair,Ohio buckeye,Brooklyn
+1747820,Fair,Oklahoma redbud,Brooklyn
+2609529,Fair,pagoda dogwood,Brooklyn
+4224913,Fair,paperbark maple,Brooklyn
+4382479,Fair,paper birch,Brooklyn
+4012123,Fair,Persian ironwood,Brooklyn
+915547,Fair,pignut hickory,Brooklyn
+1197201,Fair,pine,Brooklyn
+417374414,Fair,pin oak,Brooklyn
+4149960,Fair,pond cypress,Brooklyn
+89863781,Fair,purple-leaf plum,Brooklyn
+1104951,Fair,quaking aspen,Brooklyn
+3148882,Fair,red horse chestnut,Brooklyn
+138293741,Fair,red maple,Brooklyn
+177857,Fair,red pine,Brooklyn
+3661042,Fair,river birch,Brooklyn
+905169,Fair,sassafras,Brooklyn
+21924591,Fair,sawtooth oak,Brooklyn
+33745402,Fair,scarlet oak,Brooklyn
+69150399,Fair,'Schubert' chokecherry,Brooklyn
+24022263,Fair,Schumard's oak,Brooklyn
+693648,Fair,Scots pine,Brooklyn
+30102002,Fair,serviceberry,Brooklyn
+445222,Fair,Shantung maple,Brooklyn
+12038531,Fair,shingle oak,Brooklyn
+22661429,Fair,Siberian elm,Brooklyn
+6567658,Fair,silver birch,Brooklyn
+84459377,Fair,silver linden,Brooklyn
+86777694,Fair,silver maple,Brooklyn
+24969,Fair,smoketree,Brooklyn
+207577091,Fair,Sophora,Brooklyn
+121097,Fair,southern magnolia,Brooklyn
+406248,Fair,southern red oak,Brooklyn
+2663131,Fair,spruce,Brooklyn
+41957714,Fair,sugar maple,Brooklyn
+106069508,Fair,swamp white oak,Brooklyn
+59539151,Fair,sweetgum,Brooklyn
+32791250,Fair,sycamore maple,Brooklyn
+904746,Fair,tartar maple,Brooklyn
+14205353,Fair,tree of heaven,Brooklyn
+844611,Fair,trident maple,Brooklyn
+14022495,Fair,tulip-poplar,Brooklyn
+7215291,Fair,Turkish hazelnut,Brooklyn
+4749405,Fair,two-winged silverbell,Brooklyn
+3409508,Fair,weeping willow,Brooklyn
+10474548,Fair,white ash,Brooklyn
+16706964,Fair,white oak,Brooklyn
+4009842,Fair,white pine,Brooklyn
+25941648,Fair,willow oak,Brooklyn
+1090676,Fair,American beech,Manhattan
+62963871,Fair,American elm,Manhattan
+1606994,Fair,American hophornbeam,Manhattan
+3545022,Fair,American hornbeam,Manhattan
+683087,Fair,American larch,Manhattan
+69573549,Fair,American linden,Manhattan
+263743,Fair,Amur cork tree,Manhattan
+1376332,Fair,Amur maackia,Manhattan
+1570450,Fair,Amur maple,Manhattan
+2966641,Fair,ash,Manhattan
+1713014,Fair,Atlantic white cedar,Manhattan
+3453968,Fair,bald cypress,Manhattan
+332585,Fair,bigtooth aspen,Manhattan
+308605,Fair,black cherry,Manhattan
+407323,Fair,blackgum,Manhattan
+10390939,Fair,black locust,Manhattan
+255380,Fair,black maple,Manhattan
+7101820,Fair,black oak,Manhattan
+555241,Fair,black walnut,Manhattan
+195803,Fair,boxelder,Manhattan
+765092,Fair,bur oak,Manhattan
+256547359,Fair,Callery pear,Manhattan
+864501,Fair,catalpa,Manhattan
+27272641,Fair,cherry,Manhattan
+449389,Fair,Chinese chestnut,Manhattan
+25303778,Fair,Chinese elm,Manhattan
+53027,Fair,Chinese fringetree,Manhattan
+141986,Fair,Chinese tree lilac,Manhattan
+123486,Fair,cockspur hawthorn,Manhattan
+8277631,Fair,common hackberry,Manhattan
+716259,Fair,Cornelian cherry,Manhattan
+5380359,Fair,crab apple,Manhattan
+410996,Fair,crimson king maple,Manhattan
+355092,Fair,cucumber magnolia,Manhattan
+9181531,Fair,dawn redwood,Manhattan
+318923,Fair,Douglas-fir,Manhattan
+384847,Fair,eastern cottonwood,Manhattan
+2179963,Fair,eastern redbud,Manhattan
+1091683,Fair,eastern redcedar,Manhattan
+685826,Fair,empress tree,Manhattan
+10311683,Fair,English oak,Manhattan
+48858,Fair,European alder,Manhattan
+6911739,Fair,European hornbeam,Manhattan
+4324624,Fair,flowering dogwood,Manhattan
+222043926,Fair,ginkgo,Manhattan
+7512599,Fair,golden raintree,Manhattan
+24361423,Fair,green ash,Manhattan
+2060242,Fair,hardy rubber tree,Manhattan
+5067655,Fair,hawthorn,Manhattan
+2051231,Fair,hedge maple,Manhattan
+559859,Fair,Himalayan cedar,Manhattan
+38378,Fair,holly,Manhattan
+365830748,Fair,honeylocust,Manhattan
+557221,Fair,horse chestnut,Manhattan
+2056834,Fair,Japanese hornbeam,Manhattan
+389936,Fair,Japanese maple,Manhattan
+818760,Fair,Japanese snowbell,Manhattan
+2869031,Fair,Japanese tree lilac,Manhattan
+112254511,Fair,Japanese zelkova,Manhattan
+2460463,Fair,katsura tree,Manhattan
+8869549,Fair,Kentucky coffeetree,Manhattan
+1309265,Fair,Kentucky yellowwood,Manhattan
+545795,Fair,kousa dogwood,Manhattan
+163015399,Fair,littleleaf linden,Manhattan
+211244798,Fair,London planetree,Manhattan
+2099440,Fair,magnolia,Manhattan
+3002554,Fair,maple,Manhattan
+438034,Fair,mimosa,Manhattan
+2634994,Fair,mulberry,Manhattan
+46167742,Fair,northern red oak,Manhattan
+18077830,Fair,Norway maple,Manhattan
+1312833,Fair,Ohio buckeye,Manhattan
+612134,Fair,Oklahoma redbud,Manhattan
+1199663,Fair,pagoda dogwood,Manhattan
+1470591,Fair,paperbark maple,Manhattan
+1314053,Fair,paper birch,Manhattan
+428101,Fair,pignut hickory,Manhattan
+181489,Fair,pine,Manhattan
+131768953,Fair,pin oak,Manhattan
+781190,Fair,pond cypress,Manhattan
+4181081,Fair,purple-leaf plum,Manhattan
+12958,Fair,quaking aspen,Manhattan
+15311860,Fair,red maple,Manhattan
+438448,Fair,river birch,Manhattan
+49561,Fair,sassafras,Manhattan
+6940300,Fair,sawtooth oak,Manhattan
+1382958,Fair,scarlet oak,Manhattan
+5258833,Fair,'Schubert' chokecherry,Manhattan
+3317709,Fair,Schumard's oak,Manhattan
+461252,Fair,serviceberry,Manhattan
+6459089,Fair,shingle oak,Manhattan
+3046541,Fair,Siberian elm,Manhattan
+560713,Fair,silver birch,Manhattan
+22031297,Fair,silver linden,Manhattan
+3121584,Fair,silver maple,Manhattan
+136146134,Fair,Sophora,Manhattan
+883196,Fair,southern magnolia,Manhattan
+43501,Fair,southern red oak,Manhattan
+64149,Fair,spruce,Manhattan
+1934514,Fair,sugar maple,Manhattan
+16707641,Fair,swamp white oak,Manhattan
+15072753,Fair,sweetgum,Manhattan
+1136489,Fair,sycamore maple,Manhattan
+394664,Fair,tartar maple,Manhattan
+4378605,Fair,tree of heaven,Manhattan
+1201443,Fair,tulip-poplar,Manhattan
+1336854,Fair,Turkish hazelnut,Manhattan
+766161,Fair,two-winged silverbell,Manhattan
+767887,Fair,weeping willow,Manhattan
+1173856,Fair,white ash,Manhattan
+18899297,Fair,white oak,Manhattan
+880,Fair,white pine,Manhattan
+22199578,Fair,willow oak,Manhattan
+2722371,Fair,American beech,Queens
+79006918,Fair,American elm,Queens
+8607508,Fair,American hophornbeam,Queens
+18075565,Fair,American hornbeam,Queens
+1166460,Fair,American larch,Queens
+191467746,Fair,American linden,Queens
+5117485,Fair,Amur cork tree,Queens
+24907592,Fair,Amur maackia,Queens
+45742254,Fair,Amur maple,Queens
+4384325,Fair,arborvitae,Queens
+73283029,Fair,ash,Queens
+6948175,Fair,Atlantic white cedar,Queens
+1967750,Fair,Atlas cedar,Queens
+13856546,Fair,bald cypress,Queens
+2492893,Fair,bigtooth aspen,Queens
+20703661,Fair,black cherry,Queens
+3226470,Fair,blackgum,Queens
+22835627,Fair,black locust,Queens
+959811,Fair,black maple,Queens
+8600114,Fair,black oak,Queens
+7044172,Fair,black pine,Queens
+4940869,Fair,black walnut,Queens
+3042511,Fair,blue spruce,Queens
+958837,Fair,boxelder,Queens
+12245811,Fair,bur oak,Queens
+786766490,Fair,Callery pear,Queens
+35624721,Fair,catalpa,Queens
+514000651,Fair,cherry,Queens
+2232346,Fair,Chinese chestnut,Queens
+32585178,Fair,Chinese elm,Queens
+2856752,Fair,Chinese fringetree,Queens
+6985696,Fair,Chinese tree lilac,Queens
+9208806,Fair,cockspur hawthorn,Queens
+25787867,Fair,common hackberry,Queens
+26201390,Fair,Cornelian cherry,Queens
+86712118,Fair,crab apple,Queens
+10739644,Fair,crepe myrtle,Queens
+244864537,Fair,crimson king maple,Queens
+2491881,Fair,cucumber magnolia,Queens
+23468947,Fair,dawn redwood,Queens
+1223274,Fair,Douglas-fir,Queens
+3415886,Fair,eastern cottonwood,Queens
+2156775,Fair,eastern hemlock,Queens
+78068422,Fair,eastern redbud,Queens
+19654983,Fair,eastern redcedar,Queens
+6781208,Fair,empress tree,Queens
+19254343,Fair,English oak,Queens
+1447732,Fair,European alder,Queens
+1861699,Fair,European beech,Queens
+26871165,Fair,European hornbeam,Queens
+2126745,Fair,false cypress,Queens
+42968185,Fair,flowering dogwood,Queens
+242603234,Fair,ginkgo,Queens
+49169982,Fair,golden raintree,Queens
+387448956,Fair,green ash,Queens
+14192716,Fair,hardy rubber tree,Queens
+52554858,Fair,hawthorn,Queens
+43413171,Fair,hedge maple,Queens
+1699769,Fair,Himalayan cedar,Queens
+1768768,Fair,holly,Queens
+820863176,Fair,honeylocust,Queens
+45793736,Fair,horse chestnut,Queens
+4795503,Fair,Japanese hornbeam,Queens
+49557002,Fair,Japanese maple,Queens
+12569093,Fair,Japanese snowbell,Queens
+114364246,Fair,Japanese tree lilac,Queens
+229370205,Fair,Japanese zelkova,Queens
+32306137,Fair,katsura tree,Queens
+33424099,Fair,Kentucky coffeetree,Queens
+8732163,Fair,Kentucky yellowwood,Queens
+7233988,Fair,kousa dogwood,Queens
+506081983,Fair,littleleaf linden,Queens
+1155809586,Fair,London planetree,Queens
+12822849,Fair,magnolia,Queens
+376579841,Fair,maple,Queens
+396253,Fair,mimosa,Queens
+34455081,Fair,mulberry,Queens
+96217174,Fair,northern red oak,Queens
+2233108002,Fair,Norway maple,Queens
+9218447,Fair,Norway spruce,Queens
+342396,Fair,Ohio buckeye,Queens
+5423422,Fair,Oklahoma redbud,Queens
+410332,Fair,Osage-orange,Queens
+4355188,Fair,pagoda dogwood,Queens
+5701136,Fair,paperbark maple,Queens
+7296472,Fair,paper birch,Queens
+7241779,Fair,Persian ironwood,Queens
+3690797,Fair,pignut hickory,Queens
+6173104,Fair,pine,Queens
+826401815,Fair,pin oak,Queens
+847955,Fair,pond cypress,Queens
+146974658,Fair,purple-leaf plum,Queens
+1061931,Fair,quaking aspen,Queens
+1136043,Fair,red horse chestnut,Queens
+323362867,Fair,red maple,Queens
+3478199,Fair,red pine,Queens
+9193735,Fair,river birch,Queens
+4111756,Fair,sassafras,Queens
+12732246,Fair,sawtooth oak,Queens
+12464357,Fair,scarlet oak,Queens
+102692600,Fair,'Schubert' chokecherry,Queens
+7911185,Fair,Schumard's oak,Queens
+120535,Fair,Scots pine,Queens
+40813781,Fair,serviceberry,Queens
+501068,Fair,Shantung maple,Queens
+13045354,Fair,shingle oak,Queens
+24971808,Fair,Siberian elm,Queens
+3599808,Fair,silver birch,Queens
+105727103,Fair,silver linden,Queens
+440480094,Fair,silver maple,Queens
+3134390,Fair,smoketree,Queens
+252301055,Fair,Sophora,Queens
+629865,Fair,southern magnolia,Queens
+1569064,Fair,southern red oak,Queens
+6314598,Fair,spruce,Queens
+101800750,Fair,sugar maple,Queens
+54754433,Fair,swamp white oak,Queens
+63688999,Fair,sweetgum,Queens
+146121185,Fair,sycamore maple,Queens
+2136159,Fair,tartar maple,Queens
+16592268,Fair,tree of heaven,Queens
+8613782,Fair,trident maple,Queens
+27677696,Fair,tulip-poplar,Queens
+10385967,Fair,Turkish hazelnut,Queens
+3222228,Fair,two-winged silverbell,Queens
+8332347,Fair,weeping willow,Queens
+18936314,Fair,white ash,Queens
+15818419,Fair,white oak,Queens
+7084926,Fair,white pine,Queens
+21946511,Fair,willow oak,Queens
+191370,Fair,American beech,Staten Island
+17206976,Fair,American elm,Staten Island
+4272867,Fair,American hophornbeam,Staten Island
+6459807,Fair,American hornbeam,Staten Island
+35943856,Fair,American linden,Staten Island
+764468,Fair,Amur cork tree,Staten Island
+10375389,Fair,Amur maackia,Staten Island
+17721119,Fair,Amur maple,Staten Island
+249606,Fair,arborvitae,Staten Island
+70574674,Fair,ash,Staten Island
+1786731,Fair,Atlantic white cedar,Staten Island
+4325735,Fair,bald cypress,Staten Island
+767129,Fair,bigtooth aspen,Staten Island
+4656257,Fair,black cherry,Staten Island
+1290527,Fair,blackgum,Staten Island
+12065290,Fair,black locust,Staten Island
+1807507,Fair,black maple,Staten Island
+2217089,Fair,black oak,Staten Island
+475398,Fair,black pine,Staten Island
+2706851,Fair,black walnut,Staten Island
+1068567,Fair,blue spruce,Staten Island
+1085431,Fair,boxelder,Staten Island
+1212961,Fair,bur oak,Staten Island
+1363628196,Fair,Callery pear,Staten Island
+1906668,Fair,catalpa,Staten Island
+221536459,Fair,cherry,Staten Island
+865851,Fair,Chinese chestnut,Staten Island
+7893816,Fair,Chinese elm,Staten Island
+1807173,Fair,Chinese fringetree,Staten Island
+3835769,Fair,Chinese tree lilac,Staten Island
+2492100,Fair,cockspur hawthorn,Staten Island
+7502321,Fair,common hackberry,Staten Island
+5658356,Fair,Cornelian cherry,Staten Island
+18837150,Fair,crab apple,Staten Island
+2634321,Fair,crepe myrtle,Staten Island
+83791352,Fair,crimson king maple,Staten Island
+371751,Fair,cucumber magnolia,Staten Island
+8718223,Fair,dawn redwood,Staten Island
+487804,Fair,Douglas-fir,Staten Island
+3450891,Fair,eastern cottonwood,Staten Island
+1128982,Fair,eastern hemlock,Staten Island
+33236247,Fair,eastern redbud,Staten Island
+2446173,Fair,eastern redcedar,Staten Island
+753789,Fair,empress tree,Staten Island
+10692213,Fair,English oak,Staten Island
+214248,Fair,European alder,Staten Island
+5491195,Fair,European hornbeam,Staten Island
+22081,Fair,false cypress,Staten Island
+12757031,Fair,flowering dogwood,Staten Island
+37335897,Fair,ginkgo,Staten Island
+24615679,Fair,golden raintree,Staten Island
+164309710,Fair,green ash,Staten Island
+2696127,Fair,hardy rubber tree,Staten Island
+32570643,Fair,hawthorn,Staten Island
+15018526,Fair,hedge maple,Staten Island
+1519744,Fair,Himalayan cedar,Staten Island
+521409,Fair,holly,Staten Island
+194694592,Fair,honeylocust,Staten Island
+11251710,Fair,horse chestnut,Staten Island
+1590001,Fair,Japanese hornbeam,Staten Island
+5255937,Fair,Japanese maple,Staten Island
+1494164,Fair,Japanese snowbell,Staten Island
+30537835,Fair,Japanese tree lilac,Staten Island
+66472958,Fair,Japanese zelkova,Staten Island
+3610796,Fair,katsura tree,Staten Island
+16804466,Fair,Kentucky coffeetree,Staten Island
+1149579,Fair,Kentucky yellowwood,Staten Island
+3620640,Fair,kousa dogwood,Staten Island
+69835734,Fair,littleleaf linden,Staten Island
+288732677,Fair,London planetree,Staten Island
+4045443,Fair,magnolia,Staten Island
+285473890,Fair,maple,Staten Island
+923288,Fair,mimosa,Staten Island
+7941347,Fair,mulberry,Staten Island
+27837777,Fair,northern red oak,Staten Island
+222882498,Fair,Norway maple,Staten Island
+2704220,Fair,Norway spruce,Staten Island
+312151,Fair,Ohio buckeye,Staten Island
+1169022,Fair,Oklahoma redbud,Staten Island
+295173,Fair,Osage-orange,Staten Island
+2286361,Fair,pagoda dogwood,Staten Island
+593165,Fair,paperbark maple,Staten Island
+5432399,Fair,paper birch,Staten Island
+789151,Fair,Persian ironwood,Staten Island
+1719862,Fair,pignut hickory,Staten Island
+537191,Fair,pine,Staten Island
+281125991,Fair,pin oak,Staten Island
+162546,Fair,pond cypress,Staten Island
+106386830,Fair,purple-leaf plum,Staten Island
+221215,Fair,quaking aspen,Staten Island
+351771,Fair,red horse chestnut,Staten Island
+349027195,Fair,red maple,Staten Island
+40269,Fair,red pine,Staten Island
+5775559,Fair,river birch,Staten Island
+1629978,Fair,sassafras,Staten Island
+2487911,Fair,sawtooth oak,Staten Island
+5318543,Fair,scarlet oak,Staten Island
+23243693,Fair,'Schubert' chokecherry,Staten Island
+8233709,Fair,Schumard's oak,Staten Island
+463418,Fair,Scots pine,Staten Island
+17294135,Fair,serviceberry,Staten Island
+395314,Fair,Shantung maple,Staten Island
+946522,Fair,shingle oak,Staten Island
+5348389,Fair,Siberian elm,Staten Island
+1957317,Fair,silver birch,Staten Island
+6111270,Fair,silver linden,Staten Island
+233918983,Fair,silver maple,Staten Island
+40618343,Fair,Sophora,Staten Island
+584330,Fair,southern magnolia,Staten Island
+1820690,Fair,southern red oak,Staten Island
+3622261,Fair,spruce,Staten Island
+23544868,Fair,sugar maple,Staten Island
+38501350,Fair,swamp white oak,Staten Island
+236102015,Fair,sweetgum,Staten Island
+13083402,Fair,sycamore maple,Staten Island
+1493171,Fair,tartar maple,Staten Island
+3759671,Fair,tree of heaven,Staten Island
+1088035,Fair,trident maple,Staten Island
+11147361,Fair,tulip-poplar,Staten Island
+756510,Fair,Turkish hazelnut,Staten Island
+6279828,Fair,two-winged silverbell,Staten Island
+2301567,Fair,weeping willow,Staten Island
+8611841,Fair,white ash,Staten Island
+6787427,Fair,white oak,Staten Island
+1963113,Fair,white pine,Staten Island
+6859852,Fair,willow oak,Staten Island
+7641978,Good,American beech,Bronx
+409625921,Good,American elm,Bronx
+50553203,Good,American hophornbeam,Bronx
+88664101,Good,American hornbeam,Bronx
+2824347,Good,American larch,Bronx
+618502674,Good,American linden,Bronx
+6092901,Good,Amur cork tree,Bronx
+134623009,Good,Amur maackia,Bronx
+122490898,Good,Amur maple,Bronx
+6253946,Good,arborvitae,Bronx
+101385400,Good,ash,Bronx
+16630981,Good,Atlantic white cedar,Bronx
+1348311,Good,Atlas cedar,Bronx
+24656461,Good,bald cypress,Bronx
+1623731,Good,bigtooth aspen,Bronx
+15501694,Good,black cherry,Bronx
+6764308,Good,blackgum,Bronx
+92137865,Good,black locust,Bronx
+3626429,Good,black maple,Bronx
+40525754,Good,black oak,Bronx
+519419,Good,black pine,Bronx
+9775611,Good,black walnut,Bronx
+5338305,Good,blue spruce,Bronx
+6418465,Good,boxelder,Bronx
+23359746,Good,bur oak,Bronx
+1419552451,Good,Callery pear,Bronx
+33801939,Good,catalpa,Bronx
+1216443939,Good,cherry,Bronx
+3963728,Good,Chinese chestnut,Bronx
+371948913,Good,Chinese elm,Bronx
+8611908,Good,Chinese fringetree,Bronx
+13334094,Good,Chinese tree lilac,Bronx
+11374936,Good,cockspur hawthorn,Bronx
+222865665,Good,common hackberry,Bronx
+59274946,Good,Cornelian cherry,Bronx
+143520164,Good,crab apple,Bronx
+12795942,Good,crepe myrtle,Bronx
+35408509,Good,crimson king maple,Bronx
+3592534,Good,cucumber magnolia,Bronx
+99871664,Good,dawn redwood,Bronx
+1623304,Good,Douglas-fir,Bronx
+12791682,Good,eastern cottonwood,Bronx
+2231381,Good,eastern hemlock,Bronx
+165324730,Good,eastern redbud,Bronx
+42525594,Good,eastern redcedar,Bronx
+11706926,Good,empress tree,Bronx
+53861285,Good,English oak,Bronx
+1432252,Good,European alder,Bronx
+2923548,Good,European beech,Bronx
+117955757,Good,European hornbeam,Bronx
+3076759,Good,false cypress,Bronx
+40515820,Good,flowering dogwood,Bronx
+757078850,Good,ginkgo,Bronx
+144159992,Good,golden raintree,Bronx
+468921303,Good,green ash,Bronx
+32095806,Good,hardy rubber tree,Bronx
+142042082,Good,hawthorn,Bronx
+221775859,Good,hedge maple,Bronx
+515800,Good,Himalayan cedar,Bronx
+3947653,Good,holly,Bronx
+2817349032,Good,honeylocust,Bronx
+26717226,Good,horse chestnut,Bronx
+17608307,Good,Japanese hornbeam,Bronx
+20418264,Good,Japanese maple,Bronx
+15076199,Good,Japanese snowbell,Bronx
+162825665,Good,Japanese tree lilac,Bronx
+1275098804,Good,Japanese zelkova,Bronx
+25020891,Good,katsura tree,Bronx
+112187002,Good,Kentucky coffeetree,Bronx
+22684993,Good,Kentucky yellowwood,Bronx
+9054818,Good,kousa dogwood,Bronx
+1047951271,Good,littleleaf linden,Bronx
+2188609679,Good,London planetree,Bronx
+13439736,Good,magnolia,Bronx
+280835439,Good,maple,Bronx
+4393253,Good,mimosa,Bronx
+35109409,Good,mulberry,Bronx
+393532198,Good,northern red oak,Bronx
+756642903,Good,Norway maple,Bronx
+7713378,Good,Norway spruce,Bronx
+768525,Good,Ohio buckeye,Bronx
+8534372,Good,Oklahoma redbud,Bronx
+449079,Good,Osage-orange,Bronx
+3353283,Good,pagoda dogwood,Bronx
+10619220,Good,paperbark maple,Bronx
+17519042,Good,paper birch,Bronx
+8989779,Good,Persian ironwood,Bronx
+1707737,Good,pignut hickory,Bronx
+5995742,Good,pine,Bronx
+1854839943,Good,pin oak,Bronx
+470104,Good,pitch pine,Bronx
+10157044,Good,pond cypress,Bronx
+224274178,Good,purple-leaf plum,Bronx
+1192514,Good,quaking aspen,Bronx
+4278293,Good,red horse chestnut,Bronx
+565067168,Good,red maple,Bronx
+3399176,Good,red pine,Bronx
+15931142,Good,river birch,Bronx
+3047968,Good,sassafras,Bronx
+128592120,Good,sawtooth oak,Bronx
+93070899,Good,scarlet oak,Bronx
+152526172,Good,'Schubert' chokecherry,Bronx
+74396253,Good,Schumard's oak,Bronx
+875609,Good,Scots pine,Bronx
+90094247,Good,serviceberry,Bronx
+3192448,Good,Shantung maple,Bronx
+60922926,Good,shingle oak,Bronx
+124014507,Good,Siberian elm,Bronx
+8751216,Good,silver birch,Bronx
+130399355,Good,silver linden,Bronx
+154815029,Good,silver maple,Bronx
+367646,Good,smoketree,Bronx
+705720255,Good,Sophora,Bronx
+4092892,Good,southern magnolia,Bronx
+3678152,Good,southern red oak,Bronx
+3003626,Good,spruce,Bronx
+91490425,Good,sugar maple,Bronx
+234377781,Good,swamp white oak,Bronx
+262656340,Good,sweetgum,Bronx
+54371360,Good,sycamore maple,Bronx
+12293431,Good,tartar maple,Bronx
+13591839,Good,tree of heaven,Bronx
+2097273,Good,trident maple,Bronx
+12771612,Good,tulip-poplar,Bronx
+15401214,Good,Turkish hazelnut,Bronx
+6328284,Good,two-winged silverbell,Bronx
+368290,Good,Virginia pine,Bronx
+9418203,Good,weeping willow,Bronx
+42098293,Good,white ash,Bronx
+55428529,Good,white oak,Bronx
+5251687,Good,white pine,Bronx
+143860706,Good,willow oak,Bronx
+150745,Good,,Bronx
+16931755,Good,American beech,Brooklyn
+522977783,Good,American elm,Brooklyn
+102114798,Good,American hophornbeam,Brooklyn
+115697358,Good,American hornbeam,Brooklyn
+3133800,Good,American larch,Brooklyn
+1133955841,Good,American linden,Brooklyn
+12528732,Good,Amur cork tree,Brooklyn
+232789939,Good,Amur maackia,Brooklyn
+78920906,Good,Amur maple,Brooklyn
+20024184,Good,arborvitae,Brooklyn
+143948851,Good,ash,Brooklyn
+29091200,Good,Atlantic white cedar,Brooklyn
+17359699,Good,Atlas cedar,Brooklyn
+194107756,Good,bald cypress,Brooklyn
+7926945,Good,bigtooth aspen,Brooklyn
+46721731,Good,black cherry,Brooklyn
+36889538,Good,blackgum,Brooklyn
+93336520,Good,black locust,Brooklyn
+10459461,Good,black maple,Brooklyn
+122494689,Good,black oak,Brooklyn
+731710,Good,black pine,Brooklyn
+21574068,Good,black walnut,Brooklyn
+5092381,Good,blue spruce,Brooklyn
+3782987,Good,boxelder,Brooklyn
+45139166,Good,bur oak,Brooklyn
+2906941255,Good,Callery pear,Brooklyn
+18313940,Good,catalpa,Brooklyn
+1890806052,Good,cherry,Brooklyn
+16667895,Good,Chinese chestnut,Brooklyn
+426173498,Good,Chinese elm,Brooklyn
+15666102,Good,Chinese fringetree,Brooklyn
+32319983,Good,Chinese tree lilac,Brooklyn
+22921122,Good,cockspur hawthorn,Brooklyn
+146255890,Good,common hackberry,Brooklyn
+71801303,Good,Cornelian cherry,Brooklyn
+193202017,Good,crab apple,Brooklyn
+24645599,Good,crepe myrtle,Brooklyn
+312148248,Good,crimson king maple,Brooklyn
+12301817,Good,cucumber magnolia,Brooklyn
+351969606,Good,dawn redwood,Brooklyn
+9097844,Good,Douglas-fir,Brooklyn
+9422307,Good,eastern cottonwood,Brooklyn
+6203671,Good,eastern hemlock,Brooklyn
+234823695,Good,eastern redbud,Brooklyn
+90750127,Good,eastern redcedar,Brooklyn
+6950426,Good,empress tree,Brooklyn
+158335150,Good,English oak,Brooklyn
+3073950,Good,European alder,Brooklyn
+12304837,Good,European beech,Brooklyn
+152321617,Good,European hornbeam,Brooklyn
+12777438,Good,false cypress,Brooklyn
+110500567,Good,flowering dogwood,Brooklyn
+1589033852,Good,ginkgo,Brooklyn
+286231345,Good,golden raintree,Brooklyn
+1109997195,Good,green ash,Brooklyn
+135920134,Good,hardy rubber tree,Brooklyn
+147298669,Good,hawthorn,Brooklyn
+196468672,Good,hedge maple,Brooklyn
+4981008,Good,Himalayan cedar,Brooklyn
+10575607,Good,holly,Brooklyn
+4960211245,Good,honeylocust,Brooklyn
+58105343,Good,horse chestnut,Brooklyn
+41632750,Good,Japanese hornbeam,Brooklyn
+33055052,Good,Japanese maple,Brooklyn
+22708569,Good,Japanese snowbell,Brooklyn
+265480345,Good,Japanese tree lilac,Brooklyn
+3031054132,Good,Japanese zelkova,Brooklyn
+58801424,Good,katsura tree,Brooklyn
+366776613,Good,Kentucky coffeetree,Brooklyn
+31936130,Good,Kentucky yellowwood,Brooklyn
+19389031,Good,kousa dogwood,Brooklyn
+2543679552,Good,littleleaf linden,Brooklyn
+12711437327,Good,London planetree,Brooklyn
+24370301,Good,magnolia,Brooklyn
+163627213,Good,maple,Brooklyn
+23976112,Good,mimosa,Brooklyn
+62335225,Good,mulberry,Brooklyn
+643550721,Good,northern red oak,Brooklyn
+1711369399,Good,Norway maple,Brooklyn
+17165050,Good,Norway spruce,Brooklyn
+6033488,Good,Ohio buckeye,Brooklyn
+17980929,Good,Oklahoma redbud,Brooklyn
+1902010,Good,Osage-orange,Brooklyn
+24218574,Good,pagoda dogwood,Brooklyn
+14071314,Good,paperbark maple,Brooklyn
+36969447,Good,paper birch,Brooklyn
+21308740,Good,Persian ironwood,Brooklyn
+3559470,Good,pignut hickory,Brooklyn
+17960341,Good,pine,Brooklyn
+3769080060,Good,pin oak,Brooklyn
+2185450,Good,pitch pine,Brooklyn
+21762600,Good,pond cypress,Brooklyn
+374340989,Good,purple-leaf plum,Brooklyn
+4887127,Good,quaking aspen,Brooklyn
+6540870,Good,red horse chestnut,Brooklyn
+727900215,Good,red maple,Brooklyn
+6965537,Good,red pine,Brooklyn
+40475608,Good,river birch,Brooklyn
+15292536,Good,sassafras,Brooklyn
+202555014,Good,sawtooth oak,Brooklyn
+146632839,Good,scarlet oak,Brooklyn
+366175662,Good,'Schubert' chokecherry,Brooklyn
+129083926,Good,Schumard's oak,Brooklyn
+387502,Good,Scots pine,Brooklyn
+123960042,Good,serviceberry,Brooklyn
+4251166,Good,Shantung maple,Brooklyn
+86453202,Good,shingle oak,Brooklyn
+102015962,Good,Siberian elm,Brooklyn
+40936365,Good,silver birch,Brooklyn
+667921341,Good,silver linden,Brooklyn
+433117115,Good,silver maple,Brooklyn
+3587865,Good,smoketree,Brooklyn
+1797380389,Good,Sophora,Brooklyn
+6480775,Good,southern magnolia,Brooklyn
+6029192,Good,southern red oak,Brooklyn
+9595593,Good,spruce,Brooklyn
+118181081,Good,sugar maple,Brooklyn
+802035936,Good,swamp white oak,Brooklyn
+655513809,Good,sweetgum,Brooklyn
+148336594,Good,sycamore maple,Brooklyn
+3984174,Good,tartar maple,Brooklyn
+36252777,Good,tree of heaven,Brooklyn
+3834099,Good,trident maple,Brooklyn
+55304974,Good,tulip-poplar,Brooklyn
+24102993,Good,Turkish hazelnut,Brooklyn
+13626807,Good,two-winged silverbell,Brooklyn
+835494,Good,Virginia pine,Brooklyn
+19080867,Good,weeping willow,Brooklyn
+89772120,Good,white ash,Brooklyn
+140513314,Good,white oak,Brooklyn
+9488447,Good,white pine,Brooklyn
+241806847,Good,willow oak,Brooklyn
+2652053,Good,American beech,Manhattan
+382313566,Good,American elm,Manhattan
+11650613,Good,American hophornbeam,Manhattan
+17964144,Good,American hornbeam,Manhattan
+362137,Good,American larch,Manhattan
+204446116,Good,American linden,Manhattan
+2106112,Good,Amur cork tree,Manhattan
+11753246,Good,Amur maackia,Manhattan
+2616806,Good,Amur maple,Manhattan
+1410341,Good,arborvitae,Manhattan
+12380251,Good,ash,Manhattan
+2246235,Good,Atlantic white cedar,Manhattan
+16018718,Good,bald cypress,Manhattan
+421753,Good,bigtooth aspen,Manhattan
+3630282,Good,black cherry,Manhattan
+1392438,Good,blackgum,Manhattan
+44129381,Good,black locust,Manhattan
+1007526,Good,black maple,Manhattan
+27182978,Good,black oak,Manhattan
+294579,Good,black pine,Manhattan
+3846838,Good,black walnut,Manhattan
+708494,Good,blue spruce,Manhattan
+7750348,Good,bur oak,Manhattan
+1085622288,Good,Callery pear,Manhattan
+493215,Good,catalpa,Manhattan
+128602162,Good,cherry,Manhattan
+1525162,Good,Chinese chestnut,Manhattan
+134701187,Good,Chinese elm,Manhattan
+1890870,Good,Chinese fringetree,Manhattan
+530640,Good,Chinese tree lilac,Manhattan
+142549,Good,cockspur hawthorn,Manhattan
+23989072,Good,common hackberry,Manhattan
+4265630,Good,Cornelian cherry,Manhattan
+68965875,Good,crab apple,Manhattan
+1049460,Good,crepe myrtle,Manhattan
+66792,Good,crimson king maple,Manhattan
+1566923,Good,cucumber magnolia,Manhattan
+26164765,Good,dawn redwood,Manhattan
+1033586,Good,eastern cottonwood,Manhattan
+164910,Good,eastern hemlock,Manhattan
+8274126,Good,eastern redbud,Manhattan
+4377758,Good,eastern redcedar,Manhattan
+1258171,Good,empress tree,Manhattan
+42162079,Good,English oak,Manhattan
+515367,Good,European beech,Manhattan
+51305449,Good,European hornbeam,Manhattan
+6839620,Good,flowering dogwood,Manhattan
+881883266,Good,ginkgo,Manhattan
+68403328,Good,golden raintree,Manhattan
+105065935,Good,green ash,Manhattan
+11564814,Good,hardy rubber tree,Manhattan
+29365399,Good,hawthorn,Manhattan
+1596113,Good,hedge maple,Manhattan
+2239477,Good,Himalayan cedar,Manhattan
+4651588,Good,holly,Manhattan
+2360954492,Good,honeylocust,Manhattan
+1527843,Good,horse chestnut,Manhattan
+10685041,Good,Japanese hornbeam,Manhattan
+912993,Good,Japanese maple,Manhattan
+1358512,Good,Japanese snowbell,Manhattan
+13945869,Good,Japanese tree lilac,Manhattan
+585853977,Good,Japanese zelkova,Manhattan
+4750469,Good,katsura tree,Manhattan
+60376766,Good,Kentucky coffeetree,Manhattan
+2758291,Good,Kentucky yellowwood,Manhattan
+2580369,Good,kousa dogwood,Manhattan
+443144986,Good,littleleaf linden,Manhattan
+574137774,Good,London planetree,Manhattan
+25544435,Good,magnolia,Manhattan
+4361747,Good,maple,Manhattan
+623272,Good,mimosa,Manhattan
+10072838,Good,mulberry,Manhattan
+168953437,Good,northern red oak,Manhattan
+36112674,Good,Norway maple,Manhattan
+42291,Good,Norway spruce,Manhattan
+2865205,Good,Ohio buckeye,Manhattan
+756431,Good,Oklahoma redbud,Manhattan
+52515,Good,Osage-orange,Manhattan
+617538,Good,pagoda dogwood,Manhattan
+1142496,Good,paperbark maple,Manhattan
+5133059,Good,paper birch,Manhattan
+69541,Good,Persian ironwood,Manhattan
+96714,Good,pine,Manhattan
+762311960,Good,pin oak,Manhattan
+967461,Good,pitch pine,Manhattan
+83303,Good,pond cypress,Manhattan
+17724213,Good,purple-leaf plum,Manhattan
+101408,Good,quaking aspen,Manhattan
+234576,Good,red horse chestnut,Manhattan
+44727979,Good,red maple,Manhattan
+69010,Good,red pine,Manhattan
+3711385,Good,river birch,Manhattan
+1493024,Good,sassafras,Manhattan
+67161080,Good,sawtooth oak,Manhattan
+18156736,Good,scarlet oak,Manhattan
+18548274,Good,'Schubert' chokecherry,Manhattan
+30481153,Good,Schumard's oak,Manhattan
+252177,Good,Scots pine,Manhattan
+6436276,Good,serviceberry,Manhattan
+54734522,Good,shingle oak,Manhattan
+26850612,Good,Siberian elm,Manhattan
+809437,Good,silver birch,Manhattan
+71304535,Good,silver linden,Manhattan
+5122112,Good,silver maple,Manhattan
+136733,Good,smoketree,Manhattan
+704367456,Good,Sophora,Manhattan
+2845298,Good,southern magnolia,Manhattan
+1082784,Good,southern red oak,Manhattan
+4711577,Good,sugar maple,Manhattan
+118682037,Good,swamp white oak,Manhattan
+34743331,Good,sweetgum,Manhattan
+4524554,Good,sycamore maple,Manhattan
+346944,Good,tartar maple,Manhattan
+15362061,Good,tree of heaven,Manhattan
+1017980,Good,tulip-poplar,Manhattan
+1090579,Good,Turkish hazelnut,Manhattan
+802081,Good,two-winged silverbell,Manhattan
+278441,Good,Virginia pine,Manhattan
+1824883,Good,weeping willow,Manhattan
+6864595,Good,white ash,Manhattan
+50721664,Good,white oak,Manhattan
+168503267,Good,willow oak,Manhattan
+32609686,Good,American beech,Queens
+588527122,Good,American elm,Queens
+95593145,Good,American hophornbeam,Queens
+176807957,Good,American hornbeam,Queens
+2744311,Good,American larch,Queens
+1727184260,Good,American linden,Queens
+11729525,Good,Amur cork tree,Queens
+261887515,Good,Amur maackia,Queens
+225076476,Good,Amur maple,Queens
+63683945,Good,arborvitae,Queens
+709691160,Good,ash,Queens
+44906515,Good,Atlantic white cedar,Queens
+17956085,Good,Atlas cedar,Queens
+111691409,Good,bald cypress,Queens
+10818128,Good,bigtooth aspen,Queens
+84440405,Good,black cherry,Queens
+23354823,Good,blackgum,Queens
+142568390,Good,black locust,Queens
+5593678,Good,black maple,Queens
+107923260,Good,black oak,Queens
+2508537,Good,black pine,Queens
+25523752,Good,black walnut,Queens
+18378055,Good,blue spruce,Queens
+4668096,Good,boxelder,Queens
+55118023,Good,bur oak,Queens
+5874247752,Good,Callery pear,Queens
+84107560,Good,catalpa,Queens
+5439252924,Good,cherry,Queens
+16267368,Good,Chinese chestnut,Queens
+306799339,Good,Chinese elm,Queens
+29328008,Good,Chinese fringetree,Queens
+73552674,Good,Chinese tree lilac,Queens
+48950168,Good,cockspur hawthorn,Queens
+230989135,Good,common hackberry,Queens
+100120237,Good,Cornelian cherry,Queens
+481393116,Good,crab apple,Queens
+104503765,Good,crepe myrtle,Queens
+1038544241,Good,crimson king maple,Queens
+15170495,Good,cucumber magnolia,Queens
+362161897,Good,dawn redwood,Queens
+11001970,Good,Douglas-fir,Queens
+29543632,Good,eastern cottonwood,Queens
+5681404,Good,eastern hemlock,Queens
+483341329,Good,eastern redbud,Queens
+197229344,Good,eastern redcedar,Queens
+29585379,Good,empress tree,Queens
+149107247,Good,English oak,Queens
+4723657,Good,European alder,Queens
+16732576,Good,European beech,Queens
+345990133,Good,European hornbeam,Queens
+20650402,Good,false cypress,Queens
+215479507,Good,flowering dogwood,Queens
+2086931335,Good,ginkgo,Queens
+474875049,Good,golden raintree,Queens
+2566509501,Good,green ash,Queens
+99965669,Good,hardy rubber tree,Queens
+374159279,Good,hawthorn,Queens
+250491837,Good,hedge maple,Queens
+10415876,Good,Himalayan cedar,Queens
+15425074,Good,holly,Queens
+7059646346,Good,honeylocust,Queens
+216030763,Good,horse chestnut,Queens
+30156248,Good,Japanese hornbeam,Queens
+284283432,Good,Japanese maple,Queens
+80622056,Good,Japanese snowbell,Queens
+680437839,Good,Japanese tree lilac,Queens
+3419741789,Good,Japanese zelkova,Queens
+110320089,Good,katsura tree,Queens
+365913115,Good,Kentucky coffeetree,Queens
+72540081,Good,Kentucky yellowwood,Queens
+42870598,Good,kousa dogwood,Queens
+4413749821,Good,littleleaf linden,Queens
+11838665803,Good,London planetree,Queens
+128679969,Good,magnolia,Queens
+1031181374,Good,maple,Queens
+16751070,Good,mimosa,Queens
+188891021,Good,mulberry,Queens
+998993528,Good,northern red oak,Queens
+5051681372,Good,Norway maple,Queens
+58349341,Good,Norway spruce,Queens
+4799710,Good,Ohio buckeye,Queens
+32915201,Good,Oklahoma redbud,Queens
+3488220,Good,Osage-orange,Queens
+19470096,Good,pagoda dogwood,Queens
+19590287,Good,paperbark maple,Queens
+56021030,Good,paper birch,Queens
+60604693,Good,Persian ironwood,Queens
+16427885,Good,pignut hickory,Queens
+81050131,Good,pine,Queens
+8361009530,Good,pin oak,Queens
+2589367,Good,pitch pine,Queens
+10568919,Good,pond cypress,Queens
+1077739224,Good,purple-leaf plum,Queens
+15216957,Good,quaking aspen,Queens
+23244596,Good,red horse chestnut,Queens
+1676016247,Good,red maple,Queens
+22276116,Good,red pine,Queens
+61475478,Good,river birch,Queens
+24163608,Good,sassafras,Queens
+229281342,Good,sawtooth oak,Queens
+97961893,Good,scarlet oak,Queens
+680329881,Good,'Schubert' chokecherry,Queens
+63063833,Good,Schumard's oak,Queens
+1742086,Good,Scots pine,Queens
+322099037,Good,serviceberry,Queens
+6075483,Good,Shantung maple,Queens
+115254469,Good,shingle oak,Queens
+108432149,Good,Siberian elm,Queens
+26273440,Good,silver birch,Queens
+1667043386,Good,silver linden,Queens
+2268155139,Good,silver maple,Queens
+17717002,Good,smoketree,Queens
+1703337939,Good,Sophora,Queens
+16304078,Good,southern magnolia,Queens
+6736207,Good,southern red oak,Queens
+26609955,Good,spruce,Queens
+383104564,Good,sugar maple,Queens
+599473391,Good,swamp white oak,Queens
+984085422,Good,sweetgum,Queens
+548311068,Good,sycamore maple,Queens
+16861936,Good,tartar maple,Queens
+94724176,Good,tree of heaven,Queens
+18799054,Good,trident maple,Queens
+186497671,Good,tulip-poplar,Queens
+43882988,Good,Turkish hazelnut,Queens
+19526376,Good,two-winged silverbell,Queens
+432730,Good,Virginia pine,Queens
+46835307,Good,weeping willow,Queens
+142037756,Good,white ash,Queens
+171041157,Good,white oak,Queens
+23761133,Good,white pine,Queens
+301436828,Good,willow oak,Queens
+1261487,Good,,Queens
+17920831,Good,American beech,Staten Island
+155924690,Good,American elm,Staten Island
+43985473,Good,American hophornbeam,Staten Island
+87065309,Good,American hornbeam,Staten Island
+3639230,Good,American larch,Staten Island
+342159974,Good,American linden,Staten Island
+8274523,Good,Amur cork tree,Staten Island
+73155739,Good,Amur maackia,Staten Island
+198472975,Good,Amur maple,Staten Island
+18860525,Good,arborvitae,Staten Island
+190742656,Good,ash,Staten Island
+5827007,Good,Atlantic white cedar,Staten Island
+2482145,Good,Atlas cedar,Staten Island
+41812657,Good,bald cypress,Staten Island
+3343167,Good,bigtooth aspen,Staten Island
+24032310,Good,black cherry,Staten Island
+16335003,Good,blackgum,Staten Island
+51623447,Good,black locust,Staten Island
+11430364,Good,black maple,Staten Island
+21005609,Good,black oak,Staten Island
+578738,Good,black pine,Staten Island
+7396438,Good,black walnut,Staten Island
+6937631,Good,blue spruce,Staten Island
+2392902,Good,boxelder,Staten Island
+27189687,Good,bur oak,Staten Island
+6306512193,Good,Callery pear,Staten Island
+5333880,Good,catalpa,Staten Island
+1581561027,Good,cherry,Staten Island
+8263258,Good,Chinese chestnut,Staten Island
+166085075,Good,Chinese elm,Staten Island
+17706590,Good,Chinese fringetree,Staten Island
+32236805,Good,Chinese tree lilac,Staten Island
+32960854,Good,cockspur hawthorn,Staten Island
+42224564,Good,common hackberry,Staten Island
+108760557,Good,Cornelian cherry,Staten Island
+165320740,Good,crab apple,Staten Island
+22604939,Good,crepe myrtle,Staten Island
+415971935,Good,crimson king maple,Staten Island
+9756242,Good,cucumber magnolia,Staten Island
+129420623,Good,dawn redwood,Staten Island
+2361717,Good,Douglas-fir,Staten Island
+19834902,Good,eastern cottonwood,Staten Island
+3203169,Good,eastern hemlock,Staten Island
+301186341,Good,eastern redbud,Staten Island
+16592493,Good,eastern redcedar,Staten Island
+7634847,Good,empress tree,Staten Island
+57274744,Good,English oak,Staten Island
+1868091,Good,European alder,Staten Island
+5109171,Good,European beech,Staten Island
+62194959,Good,European hornbeam,Staten Island
+2665816,Good,false cypress,Staten Island
+88424891,Good,flowering dogwood,Staten Island
+268602439,Good,ginkgo,Staten Island
+189678911,Good,golden raintree,Staten Island
+629884411,Good,green ash,Staten Island
+31526094,Good,hardy rubber tree,Staten Island
+203257858,Good,hawthorn,Staten Island
+152124369,Good,hedge maple,Staten Island
+7568965,Good,Himalayan cedar,Staten Island
+3052592,Good,holly,Staten Island
+1354494812,Good,honeylocust,Staten Island
+57707777,Good,horse chestnut,Staten Island
+12613751,Good,Japanese hornbeam,Staten Island
+47948311,Good,Japanese maple,Staten Island
+8285817,Good,Japanese snowbell,Staten Island
+307514357,Good,Japanese tree lilac,Staten Island
+770929580,Good,Japanese zelkova,Staten Island
+29089125,Good,katsura tree,Staten Island
+111929851,Good,Kentucky coffeetree,Staten Island
+17519143,Good,Kentucky yellowwood,Staten Island
+13409401,Good,kousa dogwood,Staten Island
+487431239,Good,littleleaf linden,Staten Island
+3096083237,Good,London planetree,Staten Island
+37593429,Good,magnolia,Staten Island
+783267860,Good,maple,Staten Island
+2543212,Good,mimosa,Staten Island
+38244294,Good,mulberry,Staten Island
+164859938,Good,northern red oak,Staten Island
+1212989107,Good,Norway maple,Staten Island
+15981997,Good,Norway spruce,Staten Island
+1208695,Good,Ohio buckeye,Staten Island
+11750069,Good,Oklahoma redbud,Staten Island
+1353327,Good,Osage-orange,Staten Island
+21706540,Good,pagoda dogwood,Staten Island
+12330051,Good,paperbark maple,Staten Island
+38024195,Good,paper birch,Staten Island
+6822071,Good,Persian ironwood,Staten Island
+4795661,Good,pignut hickory,Staten Island
+7402634,Good,pine,Staten Island
+2302617281,Good,pin oak,Staten Island
+1209419,Good,pitch pine,Staten Island
+2320578,Good,pond cypress,Staten Island
+514638446,Good,purple-leaf plum,Staten Island
+6320952,Good,quaking aspen,Staten Island
+7541788,Good,red horse chestnut,Staten Island
+2260560029,Good,red maple,Staten Island
+7123932,Good,red pine,Staten Island
+46449929,Good,river birch,Staten Island
+7165793,Good,sassafras,Staten Island
+50640738,Good,sawtooth oak,Staten Island
+28666234,Good,scarlet oak,Staten Island
+230159853,Good,'Schubert' chokecherry,Staten Island
+58993910,Good,Schumard's oak,Staten Island
+773119,Good,Scots pine,Staten Island
+150221644,Good,serviceberry,Staten Island
+2696381,Good,Shantung maple,Staten Island
+14787895,Good,shingle oak,Staten Island
+64272084,Good,Siberian elm,Staten Island
+11008353,Good,silver birch,Staten Island
+72063861,Good,silver linden,Staten Island
+1156285083,Good,silver maple,Staten Island
+437660,Good,smoketree,Staten Island
+257569473,Good,Sophora,Staten Island
+7648128,Good,southern magnolia,Staten Island
+3498596,Good,southern red oak,Staten Island
+4981205,Good,spruce,Staten Island
+152820160,Good,sugar maple,Staten Island
+233137889,Good,swamp white oak,Staten Island
+1574294263,Good,sweetgum,Staten Island
+60294069,Good,sycamore maple,Staten Island
+7088629,Good,tartar maple,Staten Island
+13227978,Good,tree of heaven,Staten Island
+7436313,Good,trident maple,Staten Island
+58891462,Good,tulip-poplar,Staten Island
+6642747,Good,Turkish hazelnut,Staten Island
+13954680,Good,two-winged silverbell,Staten Island
+15328301,Good,weeping willow,Staten Island
+33621811,Good,white ash,Staten Island
+56720001,Good,white oak,Staten Island
+14895716,Good,white pine,Staten Island
+80302452,Good,willow oak,Staten Island
+986477,Poor,American beech,Bronx
+15144617,Poor,American elm,Bronx
+2613713,Poor,American hophornbeam,Bronx
+6302644,Poor,American hornbeam,Bronx
+29917866,Poor,American linden,Bronx
+720598,Poor,Amur cork tree,Bronx
+8279123,Poor,Amur maackia,Bronx
+6132048,Poor,Amur maple,Bronx
+112097,Poor,arborvitae,Bronx
+3781057,Poor,ash,Bronx
+2055185,Poor,bald cypress,Bronx
+1573077,Poor,black cherry,Bronx
+3716931,Poor,black locust,Bronx
+1100883,Poor,black oak,Bronx
+76869,Poor,black walnut,Bronx
+557349,Poor,boxelder,Bronx
+2087513,Poor,bur oak,Bronx
+28007243,Poor,Callery pear,Bronx
+5372310,Poor,catalpa,Bronx
+61854714,Poor,cherry,Bronx
+7558826,Poor,Chinese elm,Bronx
+466361,Poor,Chinese fringetree,Bronx
+1687228,Poor,Chinese tree lilac,Bronx
+868647,Poor,cockspur hawthorn,Bronx
+11922991,Poor,common hackberry,Bronx
+2096388,Poor,Cornelian cherry,Bronx
+6533873,Poor,crab apple,Bronx
+1503040,Poor,crepe myrtle,Bronx
+6186075,Poor,crimson king maple,Bronx
+514655,Poor,cucumber magnolia,Bronx
+12825037,Poor,dawn redwood,Bronx
+823857,Poor,eastern cottonwood,Bronx
+490298,Poor,eastern hemlock,Bronx
+15342095,Poor,eastern redbud,Bronx
+1368340,Poor,eastern redcedar,Bronx
+1471204,Poor,empress tree,Bronx
+787356,Poor,English oak,Bronx
+34419,Poor,European beech,Bronx
+6766772,Poor,European hornbeam,Bronx
+14262,Poor,false cypress,Bronx
+925872,Poor,flowering dogwood,Bronx
+45613279,Poor,ginkgo,Bronx
+6475246,Poor,golden raintree,Bronx
+23335336,Poor,green ash,Bronx
+816724,Poor,hardy rubber tree,Bronx
+6314747,Poor,hawthorn,Bronx
+9749488,Poor,hedge maple,Bronx
+388703,Poor,holly,Bronx
+56825392,Poor,honeylocust,Bronx
+4349829,Poor,horse chestnut,Bronx
+1510627,Poor,Japanese hornbeam,Bronx
+935661,Poor,Japanese maple,Bronx
+1502369,Poor,Japanese snowbell,Bronx
+7121192,Poor,Japanese tree lilac,Bronx
+36708174,Poor,Japanese zelkova,Bronx
+6126873,Poor,katsura tree,Bronx
+6540867,Poor,Kentucky coffeetree,Bronx
+1694269,Poor,Kentucky yellowwood,Bronx
+66504129,Poor,littleleaf linden,Bronx
+67080904,Poor,London planetree,Bronx
+1136657,Poor,magnolia,Bronx
+41301067,Poor,maple,Bronx
+471484,Poor,mimosa,Bronx
+4079672,Poor,mulberry,Bronx
+13158393,Poor,northern red oak,Bronx
+81484887,Poor,Norway maple,Bronx
+294582,Poor,Norway spruce,Bronx
+371723,Poor,Ohio buckeye,Bronx
+629010,Poor,Oklahoma redbud,Bronx
+1219252,Poor,paper birch,Bronx
+402638,Poor,pignut hickory,Bronx
+333664,Poor,pine,Bronx
+42948952,Poor,pin oak,Bronx
+2073325,Poor,pond cypress,Bronx
+14474980,Poor,purple-leaf plum,Bronx
+36483155,Poor,red maple,Bronx
+1042935,Poor,river birch,Bronx
+1325253,Poor,sawtooth oak,Bronx
+4678459,Poor,scarlet oak,Bronx
+8701518,Poor,'Schubert' chokecherry,Bronx
+1038260,Poor,Schumard's oak,Bronx
+4400211,Poor,serviceberry,Bronx
+2504732,Poor,shingle oak,Bronx
+2064592,Poor,Siberian elm,Bronx
+239165,Poor,silver birch,Bronx
+7813049,Poor,silver linden,Bronx
+13118440,Poor,silver maple,Bronx
+25013272,Poor,Sophora,Bronx
+164598,Poor,southern red oak,Bronx
+8666258,Poor,sugar maple,Bronx
+8410072,Poor,swamp white oak,Bronx
+4673567,Poor,sweetgum,Bronx
+4920356,Poor,sycamore maple,Bronx
+1108757,Poor,tartar maple,Bronx
+3893963,Poor,tree of heaven,Bronx
+2473355,Poor,tulip-poplar,Bronx
+785507,Poor,Turkish hazelnut,Bronx
+467292,Poor,two-winged silverbell,Bronx
+7384676,Poor,white ash,Bronx
+3400660,Poor,white oak,Bronx
+2454178,Poor,willow oak,Bronx
+882297,Poor,American beech,Brooklyn
+15913207,Poor,American elm,Brooklyn
+4963864,Poor,American hophornbeam,Brooklyn
+8107544,Poor,American hornbeam,Brooklyn
+67811596,Poor,American linden,Brooklyn
+1134396,Poor,Amur cork tree,Brooklyn
+12739509,Poor,Amur maackia,Brooklyn
+4561594,Poor,Amur maple,Brooklyn
+47062,Poor,arborvitae,Brooklyn
+3646245,Poor,ash,Brooklyn
+857450,Poor,Atlantic white cedar,Brooklyn
+9638696,Poor,bald cypress,Brooklyn
+423357,Poor,bigtooth aspen,Brooklyn
+2261197,Poor,black cherry,Brooklyn
+1594981,Poor,blackgum,Brooklyn
+1723243,Poor,black locust,Brooklyn
+986743,Poor,black maple,Brooklyn
+3520124,Poor,black oak,Brooklyn
+182661,Poor,black walnut,Brooklyn
+209047,Poor,blue spruce,Brooklyn
+770745,Poor,boxelder,Brooklyn
+3196200,Poor,bur oak,Brooklyn
+69099148,Poor,Callery pear,Brooklyn
+1448368,Poor,catalpa,Brooklyn
+95827062,Poor,cherry,Brooklyn
+12207762,Poor,Chinese elm,Brooklyn
+344065,Poor,Chinese fringetree,Brooklyn
+980972,Poor,Chinese tree lilac,Brooklyn
+15676005,Poor,common hackberry,Brooklyn
+4722253,Poor,Cornelian cherry,Brooklyn
+7955079,Poor,crab apple,Brooklyn
+682665,Poor,crepe myrtle,Brooklyn
+44610387,Poor,crimson king maple,Brooklyn
+768144,Poor,cucumber magnolia,Brooklyn
+20208559,Poor,dawn redwood,Brooklyn
+2416340,Poor,eastern cottonwood,Brooklyn
+145061,Poor,eastern hemlock,Brooklyn
+20477335,Poor,eastern redbud,Brooklyn
+1984138,Poor,eastern redcedar,Brooklyn
+858721,Poor,empress tree,Brooklyn
+6713629,Poor,English oak,Brooklyn
+347829,Poor,European beech,Brooklyn
+13041655,Poor,European hornbeam,Brooklyn
+552802,Poor,false cypress,Brooklyn
+7486787,Poor,flowering dogwood,Brooklyn
+54025877,Poor,ginkgo,Brooklyn
+8925124,Poor,golden raintree,Brooklyn
+23865295,Poor,green ash,Brooklyn
+6977591,Poor,hardy rubber tree,Brooklyn
+18213409,Poor,hawthorn,Brooklyn
+7826013,Poor,hedge maple,Brooklyn
+58504,Poor,holly,Brooklyn
+93618009,Poor,honeylocust,Brooklyn
+8714840,Poor,horse chestnut,Brooklyn
+5125832,Poor,Japanese hornbeam,Brooklyn
+2670516,Poor,Japanese maple,Brooklyn
+3930613,Poor,Japanese snowbell,Brooklyn
+24513103,Poor,Japanese tree lilac,Brooklyn
+57579193,Poor,Japanese zelkova,Brooklyn
+11133275,Poor,katsura tree,Brooklyn
+13588559,Poor,Kentucky coffeetree,Brooklyn
+3058611,Poor,Kentucky yellowwood,Brooklyn
+562549,Poor,kousa dogwood,Brooklyn
+145850472,Poor,littleleaf linden,Brooklyn
+216080600,Poor,London planetree,Brooklyn
+2306080,Poor,magnolia,Brooklyn
+9970167,Poor,maple,Brooklyn
+1504415,Poor,mimosa,Brooklyn
+3055539,Poor,mulberry,Brooklyn
+21376823,Poor,northern red oak,Brooklyn
+298378894,Poor,Norway maple,Brooklyn
+1489854,Poor,Norway spruce,Brooklyn
+1289501,Poor,Ohio buckeye,Brooklyn
+61613,Poor,Oklahoma redbud,Brooklyn
+2255290,Poor,pagoda dogwood,Brooklyn
+972107,Poor,paperbark maple,Brooklyn
+1549409,Poor,paper birch,Brooklyn
+506716,Poor,Persian ironwood,Brooklyn
+826625,Poor,pine,Brooklyn
+89162347,Poor,pin oak,Brooklyn
+2805690,Poor,pond cypress,Brooklyn
+20968625,Poor,purple-leaf plum,Brooklyn
+590800,Poor,quaking aspen,Brooklyn
+877766,Poor,red horse chestnut,Brooklyn
+46088293,Poor,red maple,Brooklyn
+131847,Poor,river birch,Brooklyn
+243877,Poor,sassafras,Brooklyn
+6006021,Poor,sawtooth oak,Brooklyn
+6755569,Poor,scarlet oak,Brooklyn
+35273599,Poor,'Schubert' chokecherry,Brooklyn
+4661547,Poor,Schumard's oak,Brooklyn
+7125194,Poor,serviceberry,Brooklyn
+250573,Poor,Shantung maple,Brooklyn
+4881251,Poor,shingle oak,Brooklyn
+4419276,Poor,Siberian elm,Brooklyn
+1186922,Poor,silver birch,Brooklyn
+25714027,Poor,silver linden,Brooklyn
+15428161,Poor,silver maple,Brooklyn
+43051059,Poor,Sophora,Brooklyn
+724065,Poor,southern magnolia,Brooklyn
+475071,Poor,spruce,Brooklyn
+11135368,Poor,sugar maple,Brooklyn
+31184999,Poor,swamp white oak,Brooklyn
+12342237,Poor,sweetgum,Brooklyn
+18387328,Poor,sycamore maple,Brooklyn
+415666,Poor,tartar maple,Brooklyn
+7452142,Poor,tree of heaven,Brooklyn
+6831463,Poor,tulip-poplar,Brooklyn
+3973027,Poor,Turkish hazelnut,Brooklyn
+581105,Poor,two-winged silverbell,Brooklyn
+195903,Poor,Virginia pine,Brooklyn
+580374,Poor,weeping willow,Brooklyn
+3294333,Poor,white ash,Brooklyn
+6942912,Poor,white oak,Brooklyn
+311662,Poor,white pine,Brooklyn
+9812251,Poor,willow oak,Brooklyn
+956244,Poor,American beech,Manhattan
+19089065,Poor,American elm,Manhattan
+1700423,Poor,American hophornbeam,Manhattan
+910251,Poor,American hornbeam,Manhattan
+296160,Poor,American larch,Manhattan
+37781622,Poor,American linden,Manhattan
+694698,Poor,Amur maackia,Manhattan
+717236,Poor,Amur maple,Manhattan
+1344253,Poor,ash,Manhattan
+2637855,Poor,bald cypress,Manhattan
+239645,Poor,bigtooth aspen,Manhattan
+384644,Poor,black cherry,Manhattan
+1147542,Poor,black locust,Manhattan
+1845508,Poor,black oak,Manhattan
+13083,Poor,black walnut,Manhattan
+195805,Poor,boxelder,Manhattan
+324416,Poor,bur oak,Manhattan
+82325880,Poor,Callery pear,Manhattan
+301289,Poor,catalpa,Manhattan
+11936650,Poor,cherry,Manhattan
+9944878,Poor,Chinese elm,Manhattan
+17892,Poor,Chinese fringetree,Manhattan
+67218,Poor,Chinese tree lilac,Manhattan
+163999,Poor,cockspur hawthorn,Manhattan
+4461302,Poor,common hackberry,Manhattan
+269613,Poor,Cornelian cherry,Manhattan
+5545491,Poor,crab apple,Manhattan
+259940,Poor,crimson king maple,Manhattan
+284413,Poor,cucumber magnolia,Manhattan
+5306801,Poor,dawn redwood,Manhattan
+580251,Poor,eastern cottonwood,Manhattan
+399174,Poor,eastern hemlock,Manhattan
+459372,Poor,eastern redbud,Manhattan
+191182,Poor,eastern redcedar,Manhattan
+215011,Poor,empress tree,Manhattan
+951975,Poor,English oak,Manhattan
+260659,Poor,European alder,Manhattan
+2835368,Poor,European hornbeam,Manhattan
+617716,Poor,flowering dogwood,Manhattan
+117568748,Poor,ginkgo,Manhattan
+1936546,Poor,golden raintree,Manhattan
+8605487,Poor,green ash,Manhattan
+2044441,Poor,hardy rubber tree,Manhattan
+1664468,Poor,hawthorn,Manhattan
+658092,Poor,hedge maple,Manhattan
+559860,Poor,Himalayan cedar,Manhattan
+76759,Poor,holly,Manhattan
+38708425,Poor,honeylocust,Manhattan
+521285,Poor,horse chestnut,Manhattan
+610242,Poor,Japanese hornbeam,Manhattan
+605865,Poor,Japanese snowbell,Manhattan
+1804110,Poor,Japanese tree lilac,Manhattan
+36227757,Poor,Japanese zelkova,Manhattan
+1584129,Poor,katsura tree,Manhattan
+2862870,Poor,Kentucky coffeetree,Manhattan
+772331,Poor,Kentucky yellowwood,Manhattan
+273892,Poor,kousa dogwood,Manhattan
+101286906,Poor,littleleaf linden,Manhattan
+68324770,Poor,London planetree,Manhattan
+2074180,Poor,magnolia,Manhattan
+2478859,Poor,maple,Manhattan
+1411087,Poor,mulberry,Manhattan
+12083444,Poor,northern red oak,Manhattan
+8423444,Poor,Norway maple,Manhattan
+221069,Poor,Norway spruce,Manhattan
+324185,Poor,pagoda dogwood,Manhattan
+744882,Poor,paperbark maple,Manhattan
+541431,Poor,paper birch,Manhattan
+23674851,Poor,pin oak,Manhattan
+727106,Poor,pond cypress,Manhattan
+1178052,Poor,purple-leaf plum,Manhattan
+8173300,Poor,red maple,Manhattan
+379597,Poor,river birch,Manhattan
+478155,Poor,sassafras,Manhattan
+743763,Poor,sawtooth oak,Manhattan
+1704768,Poor,scarlet oak,Manhattan
+1596737,Poor,'Schubert' chokecherry,Manhattan
+1928810,Poor,Schumard's oak,Manhattan
+1127494,Poor,serviceberry,Manhattan
+1015025,Poor,shingle oak,Manhattan
+1832385,Poor,Siberian elm,Manhattan
+310528,Poor,silver birch,Manhattan
+7667243,Poor,silver linden,Manhattan
+2072355,Poor,silver maple,Manhattan
+35348551,Poor,Sophora,Manhattan
+1268269,Poor,sugar maple,Manhattan
+6694000,Poor,swamp white oak,Manhattan
+6669624,Poor,sweetgum,Manhattan
+371747,Poor,sycamore maple,Manhattan
+363787,Poor,tartar maple,Manhattan
+906293,Poor,tree of heaven,Manhattan
+377485,Poor,tulip-poplar,Manhattan
+293256,Poor,Turkish hazelnut,Manhattan
+162817,Poor,Virginia pine,Manhattan
+487308,Poor,white ash,Manhattan
+5821460,Poor,white oak,Manhattan
+4831591,Poor,willow oak,Manhattan
+1280873,Poor,American beech,Queens
+23241755,Poor,American elm,Queens
+3086856,Poor,American hophornbeam,Queens
+6890733,Poor,American hornbeam,Queens
+61484053,Poor,American linden,Queens
+3970547,Poor,Amur cork tree,Queens
+7037565,Poor,Amur maackia,Queens
+12142900,Poor,Amur maple,Queens
+696218,Poor,arborvitae,Queens
+24339824,Poor,ash,Queens
+3063533,Poor,Atlantic white cedar,Queens
+4206835,Poor,bald cypress,Queens
+1634504,Poor,bigtooth aspen,Queens
+5631019,Poor,black cherry,Queens
+991688,Poor,blackgum,Queens
+4908550,Poor,black locust,Queens
+820164,Poor,black maple,Queens
+4588045,Poor,black oak,Queens
+402007,Poor,black pine,Queens
+314998,Poor,black walnut,Queens
+714739,Poor,blue spruce,Queens
+321220,Poor,boxelder,Queens
+2549780,Poor,bur oak,Queens
+139221076,Poor,Callery pear,Queens
+11586207,Poor,catalpa,Queens
+177877392,Poor,cherry,Queens
+848965,Poor,Chinese chestnut,Queens
+8788725,Poor,Chinese elm,Queens
+615849,Poor,Chinese fringetree,Queens
+1050282,Poor,Chinese tree lilac,Queens
+3235464,Poor,cockspur hawthorn,Queens
+8213110,Poor,common hackberry,Queens
+3665241,Poor,Cornelian cherry,Queens
+13759947,Poor,crab apple,Queens
+2235881,Poor,crepe myrtle,Queens
+61222181,Poor,crimson king maple,Queens
+579265,Poor,cucumber magnolia,Queens
+7845063,Poor,dawn redwood,Queens
+583284,Poor,Douglas-fir,Queens
+1988962,Poor,eastern cottonwood,Queens
+569999,Poor,eastern hemlock,Queens
+27424800,Poor,eastern redbud,Queens
+3135764,Poor,eastern redcedar,Queens
+869965,Poor,empress tree,Queens
+2051020,Poor,English oak,Queens
+598267,Poor,European beech,Queens
+12702519,Poor,European hornbeam,Queens
+12977624,Poor,flowering dogwood,Queens
+69738108,Poor,ginkgo,Queens
+12844100,Poor,golden raintree,Queens
+62667648,Poor,green ash,Queens
+4526697,Poor,hardy rubber tree,Queens
+20151208,Poor,hawthorn,Queens
+5420037,Poor,hedge maple,Queens
+562703,Poor,Himalayan cedar,Queens
+131714,Poor,holly,Queens
+115785864,Poor,honeylocust,Queens
+12483919,Poor,horse chestnut,Queens
+333722,Poor,Japanese hornbeam,Queens
+13464167,Poor,Japanese maple,Queens
+2124351,Poor,Japanese snowbell,Queens
+28478603,Poor,Japanese tree lilac,Queens
+39934139,Poor,Japanese zelkova,Queens
+16979392,Poor,katsura tree,Queens
+14505823,Poor,Kentucky coffeetree,Queens
+1937497,Poor,Kentucky yellowwood,Queens
+1821838,Poor,kousa dogwood,Queens
+170226224,Poor,littleleaf linden,Queens
+192806429,Poor,London planetree,Queens
+7740445,Poor,magnolia,Queens
+92146491,Poor,maple,Queens
+396949,Poor,mimosa,Queens
+11204641,Poor,mulberry,Queens
+18442028,Poor,northern red oak,Queens
+856157036,Poor,Norway maple,Queens
+2591261,Poor,Norway spruce,Queens
+760389,Poor,Ohio buckeye,Queens
+1847866,Poor,Oklahoma redbud,Queens
+1022403,Poor,pagoda dogwood,Queens
+2899524,Poor,paperbark maple,Queens
+2723006,Poor,paper birch,Queens
+3587524,Poor,Persian ironwood,Queens
+1094462,Poor,pignut hickory,Queens
+2190396,Poor,pine,Queens
+170226441,Poor,pin oak,Queens
+996649,Poor,pond cypress,Queens
+46855504,Poor,purple-leaf plum,Queens
+188592,Poor,quaking aspen,Queens
+97627455,Poor,red maple,Queens
+103588,Poor,red pine,Queens
+1176504,Poor,river birch,Queens
+1282038,Poor,sassafras,Queens
+5575299,Poor,sawtooth oak,Queens
+1028222,Poor,scarlet oak,Queens
+22764230,Poor,'Schubert' chokecherry,Queens
+2457457,Poor,Schumard's oak,Queens
+120532,Poor,Scots pine,Queens
+29673877,Poor,serviceberry,Queens
+1064662,Poor,Shantung maple,Queens
+6014486,Poor,shingle oak,Queens
+6139166,Poor,Siberian elm,Queens
+1133356,Poor,silver birch,Queens
+22452625,Poor,silver linden,Queens
+100661860,Poor,silver maple,Queens
+47513114,Poor,Sophora,Queens
+697935,Poor,southern magnolia,Queens
+2158,Poor,southern red oak,Queens
+1447872,Poor,spruce,Queens
+42643799,Poor,sugar maple,Queens
+28433446,Poor,swamp white oak,Queens
+10443345,Poor,sweetgum,Queens
+40090158,Poor,sycamore maple,Queens
+945663,Poor,tartar maple,Queens
+5057573,Poor,tree of heaven,Queens
+740883,Poor,trident maple,Queens
+7454460,Poor,tulip-poplar,Queens
+4575454,Poor,Turkish hazelnut,Queens
+130689,Poor,two-winged silverbell,Queens
+953780,Poor,weeping willow,Queens
+5805191,Poor,white ash,Queens
+6682391,Poor,white oak,Queens
+3409766,Poor,white pine,Queens
+3843686,Poor,willow oak,Queens
+630814,Poor,,Queens
+674267,Poor,American beech,Staten Island
+3816025,Poor,American elm,Staten Island
+1599240,Poor,American hophornbeam,Staten Island
+3081483,Poor,American hornbeam,Staten Island
+13058119,Poor,American linden,Staten Island
+3318271,Poor,Amur maackia,Staten Island
+6173984,Poor,Amur maple,Staten Island
+15975226,Poor,ash,Staten Island
+2223865,Poor,Atlantic white cedar,Staten Island
+85288,Poor,Atlas cedar,Staten Island
+1947150,Poor,bald cypress,Staten Island
+2167085,Poor,black cherry,Staten Island
+551015,Poor,blackgum,Staten Island
+3053413,Poor,black locust,Staten Island
+1849227,Poor,black maple,Staten Island
+84979,Poor,black oak,Staten Island
+216182,Poor,black pine,Staten Island
+1106148,Poor,black walnut,Staten Island
+393579,Poor,boxelder,Staten Island
+70717,Poor,bur oak,Staten Island
+409632506,Poor,Callery pear,Staten Island
+346338,Poor,catalpa,Staten Island
+99540304,Poor,cherry,Staten Island
+7225071,Poor,Chinese elm,Staten Island
+551714,Poor,Chinese tree lilac,Staten Island
+3266753,Poor,cockspur hawthorn,Staten Island
+2497549,Poor,common hackberry,Staten Island
+4276053,Poor,Cornelian cherry,Staten Island
+8487533,Poor,crab apple,Staten Island
+1232880,Poor,crepe myrtle,Staten Island
+42239993,Poor,crimson king maple,Staten Island
+215102,Poor,cucumber magnolia,Staten Island
+6575783,Poor,dawn redwood,Staten Island
+355308,Poor,eastern cottonwood,Staten Island
+21831776,Poor,eastern redbud,Staten Island
+666060,Poor,eastern redcedar,Staten Island
+957874,Poor,empress tree,Staten Island
+997334,Poor,English oak,Staten Island
+2747603,Poor,European hornbeam,Staten Island
+4855496,Poor,flowering dogwood,Staten Island
+18304431,Poor,ginkgo,Staten Island
+6633093,Poor,golden raintree,Staten Island
+23393157,Poor,green ash,Staten Island
+936054,Poor,hardy rubber tree,Staten Island
+12717487,Poor,hawthorn,Staten Island
+5225169,Poor,hedge maple,Staten Island
+553384,Poor,holly,Staten Island
+48315796,Poor,honeylocust,Staten Island
+4761294,Poor,horse chestnut,Staten Island
+95442,Poor,Japanese hornbeam,Staten Island
+3243661,Poor,Japanese maple,Staten Island
+768657,Poor,Japanese snowbell,Staten Island
+10855225,Poor,Japanese tree lilac,Staten Island
+17605211,Poor,Japanese zelkova,Staten Island
+747771,Poor,katsura tree,Staten Island
+4450635,Poor,Kentucky coffeetree,Staten Island
+1407309,Poor,Kentucky yellowwood,Staten Island
+3717396,Poor,kousa dogwood,Staten Island
+29527426,Poor,littleleaf linden,Staten Island
+56576244,Poor,London planetree,Staten Island
+63852,Poor,magnolia,Staten Island
+133615151,Poor,maple,Staten Island
+3177418,Poor,mulberry,Staten Island
+5670070,Poor,northern red oak,Staten Island
+102134095,Poor,Norway maple,Staten Island
+274077,Poor,Norway spruce,Staten Island
+264455,Poor,Oklahoma redbud,Staten Island
+181830,Poor,pagoda dogwood,Staten Island
+229111,Poor,paperbark maple,Staten Island
+1303570,Poor,paper birch,Staten Island
+124910,Poor,Persian ironwood,Staten Island
+484854,Poor,pignut hickory,Staten Island
+851539,Poor,pine,Staten Island
+61864101,Poor,pin oak,Staten Island
+32991307,Poor,purple-leaf plum,Staten Island
+561482,Poor,quaking aspen,Staten Island
+995807,Poor,red horse chestnut,Staten Island
+104110009,Poor,red maple,Staten Island
+3369346,Poor,river birch,Staten Island
+528176,Poor,sassafras,Staten Island
+532241,Poor,sawtooth oak,Staten Island
+1288070,Poor,scarlet oak,Staten Island
+7701351,Poor,'Schubert' chokecherry,Staten Island
+4851265,Poor,Schumard's oak,Staten Island
+7630807,Poor,serviceberry,Staten Island
+864957,Poor,Shantung maple,Staten Island
+717943,Poor,shingle oak,Staten Island
+493615,Poor,Siberian elm,Staten Island
+1190139,Poor,silver linden,Staten Island
+75097104,Poor,silver maple,Staten Island
+485038,Poor,smoketree,Staten Island
+14567018,Poor,Sophora,Staten Island
+346285,Poor,spruce,Staten Island
+9605238,Poor,sugar maple,Staten Island
+8555163,Poor,swamp white oak,Staten Island
+46643766,Poor,sweetgum,Staten Island
+4047101,Poor,sycamore maple,Staten Island
+801221,Poor,tree of heaven,Staten Island
+396849,Poor,tulip-poplar,Staten Island
+701438,Poor,Turkish hazelnut,Staten Island
+908597,Poor,two-winged silverbell,Staten Island
+382634,Poor,weeping willow,Staten Island
+2113664,Poor,white ash,Staten Island
+1666679,Poor,white oak,Staten Island
+329892,Poor,white pine,Staten Island
+4075170,Poor,willow oak,Staten Island
+1501546186,,,Bronx
+2731574627,,,Brooklyn
+473703,,honeylocust,Manhattan
+603131732,,,Manhattan
+5017989982,,,Queens
+245041,,green ash,Staten Island
+1375179946,,,Staten Island
